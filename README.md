@@ -9,7 +9,6 @@ that I use most in my work environment. Being them:
 - Discord;
 - Spotify;
 - Yay (Arch Linux);
-- Editor Config;
 - ZSH (and Oh My ZSH!);
 - Git;
 - Docker;
