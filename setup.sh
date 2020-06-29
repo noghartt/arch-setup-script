@@ -188,6 +188,7 @@ code --install-extension eamodio.gitlens
 code --install-extension jpoissonnier.vscode-styled-components
 code --install-extension mhutchie.git-graph
 code --install-extension christian-kohler.path-intellisense
+code --install-extension ms-vscode.cpptools
 clear
 
 display_color_text GREEN "Installing Spotify..."
