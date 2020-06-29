@@ -153,6 +153,13 @@ node --version
 clear
 
 source $HOME/.zshrc
+display_color_text GREEN "Installing Yarn..."
+npm install -g yarn
+clear
+
+display_color_text GREEN "Installing BuckleScript..."
+npm install -g bs-platform
+clear
 
 display_color_text GREEN "Installing Yay..."
 git clone https://aur.archlinux.org/yay.git
