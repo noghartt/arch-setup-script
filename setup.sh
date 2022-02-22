@@ -75,7 +75,7 @@ sudo pacman -S \
     noto-fonts-emoji \
     noto-fonts-cjk \
     noto-fonts-extra \
-    ttf-firacode \
+    ttf-fira-code \
     ttf-liberation \
     adobe-source-han-sans-otc-fonts \
     adobe-source-han-serif-otc-fonts
